@@ -15,6 +15,12 @@ namespace Assignment_1
             Console.ReadLine();
             Que2 q2 = new Que2();
             q2.Run();
+            Que3 que3 = new Que3();
+            que3.Run();
+            Que4 que4 = new Que4();
+            que4.Run();
+            Que5 que5 = new Que5();
+            que5.Run();
 
         }
     }
